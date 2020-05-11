@@ -1,0 +1,165 @@
+Maekar I
+Maester Aemon
+Aegon V
+Jaehaerys II
+Rhaelle
+Ormund
+Aerys II "the Mad"
+Steffon
+Tywin
+Joanna
+Rickard
+Brandon
+Eddard
+Benjen
+Lyanna
+Rhaegar
+Viserys
+Daenerys
+Robert
+Stannis
+Renly
+Jaime
+Cersei
+Tyrion
+Robb
+Sansa
+Arya
+Brandon
+Rickon
+Jon
+Aegon
+Shireen
+Joffrey
+Myrcella
+Tommen
+Relationships(mother,father)
+Maekar I
+unknown
+unknown
+-
+Maester Aemon
+unknown
+Maekar I
+-
+Aegon V
+unknown
+Maekar I
+-
+Jaehaerys II
+unknown
+Aegon V
+-
+Rhaelle
+unknown
+Aegon V
+-
+Ormund
+unknown
+unknown
+-
+Steffon
+Rhaelle
+Ormund
+-
+Robert
+unknown
+Steffon
+-
+Stannis
+unknown
+Steffon
+-
+Renly
+unknown
+Steffon
+-
+Shireen
+unknown
+Stannis
+-
+Aerys II "the Mad"
+unknown
+Jaehaerys II
+-
+Rhaegar
+unknown
+Aerys II "the Mad"
+-
+Viserys
+unknown
+Aerys II "the Mad"
+-
+Daenerys
+unknown
+Aerys II "the Mad"
+-
+Aegon
+unknown
+Rhaegar
+-
+Rickard
+unknown
+unknown
+-
+Brandon
+unknown
+Rickard
+-
+Eddard
+unknown
+Rickard
+-
+Benjen
+unknown
+Rickard
+-
+Lyanna
+unknown
+Rickard
+-
+Robb
+unknown
+Eddard
+-
+Sansa
+unknown
+Eddard
+-
+Arya
+unknown
+Eddard
+-
+Brandon
+unknown
+Eddard
+-
+Rickon
+unknown
+Eddard
+-
+Jon
+unknown
+Eddard
+-
+Jaime
+Joanna
+Tywin
+-
+Cersei
+Joanna
+Tywin
+-
+Joffrey
+Cersei
+Jaime
+-
+Myrcella
+Cersei
+Jaime
+-
+Tommen
+Cersei
+Jaime
+-
+End
